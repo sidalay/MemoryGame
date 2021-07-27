@@ -1,0 +1,19 @@
+body {
+    background-color:#141515;
+}
+.grid {
+    width:416px;
+    height:320px;
+    padding:3px;
+    border:5px solid;
+    background-color: rgb(50, 27, 252);
+}
+
+h3 {
+    color:white;
+    font-family: sans-serif;
+}
+
+#result {
+    color:white;
+}
