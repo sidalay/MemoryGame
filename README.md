@@ -1,5 +1,7 @@
 # Card flip memory game - Javascript
 
+Cards randomize every new match / reload
+
 ![brave_COQ32andbH](https://user-images.githubusercontent.com/72498122/192167299-5c0b2fe0-3da5-4f3b-b79b-c0d6d4b50221.png)
 
 ![brave_TrchxeF8YC](https://user-images.githubusercontent.com/72498122/192167312-4328ae4a-8a65-45d1-862b-091929c77aeb.png)
